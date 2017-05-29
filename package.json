@@ -1,0 +1,20 @@
+{
+  "name": "odedre.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/odedre/odedre.github.io.git"
+  },
+  "author": "Oded Reuveny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/odedre/odedre.github.io/issues"
+  },
+  "homepage": "https://github.com/odedre/odedre.github.io#readme"
+}
